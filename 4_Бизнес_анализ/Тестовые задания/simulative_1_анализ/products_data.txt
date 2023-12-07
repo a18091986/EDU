@@ -1,0 +1,31 @@
+product_id,product_name,category,manufacturer
+101,Ноутбук HP Pavilion 15,Ноутбуки,A
+102,Смартфон Samsung Galaxy S21,Смартфоны,B
+103,Планшет Apple iPad Air,Планшеты,C
+104,Наушники Sony WH-1000XM4,Наушники,D
+105,Телевизор LG OLED CX,Телевизоры,E
+106,Ноутбук Lenovo ThinkPad X1 Carbon,Ноутбуки,A
+107,Смартфон iPhone 13 Pro,Смартфоны,C
+108,Планшет Samsung Galaxy Tab S7,Планшеты,B
+109,Наушники Bose QuietComfort 35 II,Наушники,E
+110,Телевизор Sony Bravia X900H,Телевизоры,D
+111,Ноутбук Dell XPS 15,Ноутбуки,E
+112,Смартфон Xiaomi Mi 11,Смартфоны,D
+113,Планшет Huawei MatePad Pro,Планшеты,C
+114,Наушники JBL Tune 750BTNC,Наушники,A
+115,Телевизор Samsung QLED Q80T,Телевизоры,B
+116,Ноутбук ASUS ROG Zephyrus G14,Ноутбуки,C
+117,Смартфон Google Pixel 6,Смартфоны,D
+118,Планшет Lenovo Tab P11 Pro,Планшеты,E
+119,Наушники Beats Solo Pro,Наушники,A
+120,Телевизор Sony A8H OLED,Телевизоры,B
+121,Ноутбук HP Spectre x360,Ноутбуки,C
+122,Смартфон OnePlus 9 Pro,Смартфоны,D
+123,Планшет Amazon Fire HD 10,Планшеты,E
+124,Наушники Sennheiser HD 660S,Наушники,A
+125,Телевизор LG NanoCell NANO90,Телевизоры,B
+126,Ноутбук Microsoft Surface Laptop 4,Ноутбуки,C
+127,Смартфон Oppo Find X3 Pro,Смартфоны,D
+128,Планшет Lenovo Yoga Tab 13,Планшеты,E
+129,Наушники AKG K712 Pro,Наушники,A
+130,Телевизор Samsung The Frame,Телевизоры,B
