@@ -1,3 +1,0 @@
-read -sp "Введите имя и пароль: " name pass
-echo
-echo "Тебя зовут $name, твой пароль $pass" 
